@@ -1,0 +1,33 @@
+﻿  cg_6thsem.cpp
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(31,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(32,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(33,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(155,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(156,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(157,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(161,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(162,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(163,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(167,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(168,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(169,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(194,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(198,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(206,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(210,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(214,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(214,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(214,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(237,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(253,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(267,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(281,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(295,27): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(309,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(310,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(312,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(324,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(338,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(352,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Sangshetty\source\repos\CG_2020\cg_6thsem.cpp(366,26): warning C4305: '+=': truncation from 'double' to 'float'
+  CG_2020.vcxproj -> C:\Users\Sangshetty\source\repos\CG_2020\Debug\CG_2020.exe
